@@ -19,3 +19,9 @@ int solution(vector<int> a)
     
     return res;    
 }
+
+// 2nd code
+int solution(vector<int> a) 
+{
+    return a[(a.size() - 1)/2];   
+}
