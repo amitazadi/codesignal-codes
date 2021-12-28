@@ -10,3 +10,10 @@ int solution(int n, int firstNumber)
     return firstNumber-size;   
 
 }
+
+
+//2nd code
+int solution(int n, int firstNumber) 
+{
+    return (firstNumber+n/2)%n;
+}
