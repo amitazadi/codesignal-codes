@@ -11,7 +11,7 @@
 <p>For more details you can check out my github Profile <a href="https://www.hackerearth.com/@amitazadi" target="blank"
         ><img
             align="center"
-            src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw1VWsuaX2GD6RcEDslsUSUT&ust=1641121462386000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIivtv-zkPUCFQAAAAAdAAAAABAD"
+            src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
             alt="@amitazadi"
             height="40"
             width="40"
