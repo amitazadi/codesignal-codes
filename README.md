@@ -11,4 +11,4 @@
 <p>- For more links you can check out my github Profile
 <a href="https://www.github.com/amitazadi" target="blank"> amitazadi</a>.</p>
 
-<h3>Thanks and keep coding🍻</h3>
+<h3>Thanks and keep coding!🍻</h3>
