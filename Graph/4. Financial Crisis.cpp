@@ -1,6 +1,6 @@
 // Once upon a time, in a kingdom far, far away, there lived a King Byteasar IV. His kingdom in the middle of 
 // a financial crisis, Byteasar was struggling to keep the economy out of a recession. Unfortunately there was 
-/ not much he could do, and after much agonizing he came to the only solution: one of his cities had to be demolished, 
+// not much he could do, and after much agonizing he came to the only solution: one of his cities had to be demolished, 
 // since keeping communication active between all the cities is way too expensive.
 
 // It is not yet known if Byteasar chose a city to destroy after careful planning or picked one at random. As a 
